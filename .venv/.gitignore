@@ -1,0 +1,96 @@
+# created by virtualenv automatically
+orders/
+
+# Файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Виртуальные окружения
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.vscode/
+.idea/
+
+# IDE файлы
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+.ropeproject/
+
+# Операционные системные файлы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Конфигурационные файлы (кроме примера)
+config.json
+secrets.json
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Файлы базы данных (если добавите в будущем)
+*.db
+*.sqlite
+*.sqlite3
+
+# Файлы меню (можно игнорировать, если хотите менять меню локально)
+# menu.json
+
+# Резервные копии меню
+menu.json.bak
+menu.json.backup
+
+# Файлы с персональными данными
+*.personal.json
+custom_menu.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Тестовые покрытия
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.tox/
+
