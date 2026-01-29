@@ -1,1 +1,2 @@
-# Для базовой версии зависимости не требуются
+psycopg2-binary
+python-dotenv
