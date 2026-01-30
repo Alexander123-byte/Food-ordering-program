@@ -4,9 +4,7 @@ restaurant_system.py
 """
 
 from database import PostgreSQLDatabase
-from models import MenuItem, OrderItem, Customer, Category
-from datetime import datetime
-import uuid
+from models import OrderItem
 
 
 class RestaurantSystem:
